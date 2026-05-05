@@ -1,0 +1,5 @@
+# Core download engine
+yt-dlp>=2024.1.0
+
+# Coloured terminal output
+colorama>=0.4.6
